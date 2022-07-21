@@ -1,0 +1,2 @@
+- \_GOLIVE\_
+- 8640-es branch-et használni (amiben a legutóbb dolgoztunk, pq a DevOps még nincs összemerge-ölve)

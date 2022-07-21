@@ -1,0 +1,6 @@
+- [ ] What shall I set as locale![[Pasted image 20220719170302.png]]
+- [ ] Long and Short descriptions
+- [ ] Channels can be turned not to show by default
+- [ ] Shall be description for the channels
+- [ ] What shall be the name of the tabs in the channels?
+- [ ] Infrastructure & Security must be renamed to Infrastructure and Security

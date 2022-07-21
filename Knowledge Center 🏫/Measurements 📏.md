@@ -1,0 +1,2 @@
+# Telemetry
+- **Telemetry** is the [in situ](https://www.wikiwand.com/en/In_situ) [collection of measurements](https://www.wikiwand.com/en/Data_collection) or other data at remote points and their automatic [transmission](https://www.wikiwand.com/en/Data_transmission) to receiving equipment ([telecommunication](https://www.wikiwand.com/en/Telecommunication)) for monitoring.

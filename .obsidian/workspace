@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f742deade1b11672",
+    "type": "split",
+    "children": [
+      {
+        "id": "366b7a29be091e58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d82ae4bc4f48134d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc169913a77d614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2d5950e69ca2ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffc21703d15262e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#limitations",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d99031cae59628e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409
+  },
+  "right": {
+    "id": "0abbb130247dbc32",
+    "type": "split",
+    "children": [
+      {
+        "id": "f319e58efc3ce3f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bef164d149df661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3764cbbfb57aadd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db46e64465f0f37d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01c2e726871cbae9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md"
+              }
+            }
+          },
+          {
+            "id": "0a6ff15e80fbc7b3",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "cda5d7d8b2c39d33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "366b7a29be091e58",
+  "lastOpenFiles": [
+    "Excalidraw/AZ Secure Cloud solutions relations.excalidraw.md",
+    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🆔 The Microsoft identity platform/📚 MSAL.md",
+    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
+    "Certificates/🔷AZ-204/Secure APIs by using certificates.md",
+    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🛒 For Storage Account/🛒👏📜 Stored access policy.md",
+    "Knowledge Center 🏫/Internet 🌐/Security 👮‍♀️/OAuth 🍜.md",
+    "Knowledge Center 🏫/Internet 🌐/Security 👮‍♀️/🔗 Connections.md",
+    "Permission Types 🔀.md",
+    "👬 Design Patterns.md",
+    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🆔 The Microsoft identity platform/🙏 Permission Requests.md"
+  ]
+}

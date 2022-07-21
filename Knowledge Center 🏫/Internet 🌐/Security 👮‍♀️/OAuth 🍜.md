@@ -1,0 +1,1 @@
+- a method through which a third-party app can access web-hosted resources on behalf of a user

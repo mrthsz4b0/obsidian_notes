@@ -1,0 +1,2 @@
+- a feature that lets users establish a remote and secure connection to a work domain using credentials from the enterprise, allowing them to effectively "join" that domain.
+	- A bit like if it was a **Windows [[🔗 Connections#SecureSocketLayer TransportLayerSecurity|SSL]]**
