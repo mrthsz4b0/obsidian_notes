@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
+            "file": "Projects 👷‍♂️/👨‍🏫 Ask a professional/🤝 Meetings.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#limitations",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
+                "file": "Projects 👷‍♂️/👨‍🏫 Ask a professional/🤝 Meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
+                "file": "Projects 👷‍♂️/👨‍🏫 Ask a professional/🤝 Meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md"
+                "file": "Projects 👷‍♂️/👨‍🏫 Ask a professional/🤝 Meetings.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,15 +147,15 @@
   },
   "active": "366b7a29be091e58",
   "lastOpenFiles": [
-    "Excalidraw/AZ Secure Cloud solutions relations.excalidraw.md",
-    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🆔 The Microsoft identity platform/📚 MSAL.md",
-    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/📉 MS Graph.md",
-    "Certificates/🔷AZ-204/Secure APIs by using certificates.md",
-    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🛒 For Storage Account/🛒👏📜 Stored access policy.md",
-    "Knowledge Center 🏫/Internet 🌐/Security 👮‍♀️/OAuth 🍜.md",
-    "Knowledge Center 🏫/Internet 🌐/Security 👮‍♀️/🔗 Connections.md",
-    "Permission Types 🔀.md",
-    "👬 Design Patterns.md",
-    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🆔 The Microsoft identity platform/🙏 Permission Requests.md"
+    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🌌 General part/🔑 Key Vault.md",
+    "🏫 Knowledge Center/SharePoint 🟢/SPO 🈸.md",
+    "🏫 Knowledge Center/Power Automate 🧵.md",
+    "Projects 👷‍♂️/👨‍🏫 Ask a professional/🤝 Meetings.md",
+    "Projects 👷‍♂️/👨‍🏫 Ask a professional/❓ Questions.md",
+    "Projects 👷‍♂️/🍨 Galderma.md",
+    "🏫 Knowledge Center/Internet 🌐/Security 👮‍♀️/⚓ HSM.md",
+    "🏫 Knowledge Center/Internet 🌐/Security 👮‍♀️/📃 Protocols.md",
+    "🏫 Knowledge Center/🏫Knowledge Center.md",
+    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🔲 Modular part/📉 MS Graph.md"
   ]
 }
