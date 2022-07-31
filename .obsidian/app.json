@@ -6,5 +6,6 @@
   "foldIndent": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "AZ-204/Develop event-based solutions",
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "showUnsupportedFiles": true
 }

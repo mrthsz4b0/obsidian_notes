@@ -1,9 +1,14 @@
-| Solution | Pro | Con |
-| -------- | --- | --- |
-| Make zz_Temp to a list to enable item-level permissions         |     |     |
+| Solution                                                | Pro | Con |
+| ------------------------------------------------------- | --- | --- |
+| Make zz_Temp to a list to enable item-level permissions |     |     |
 
 - Manage result sources and verticals in SharePoint to prevent appear zz temp in search suggestion (OSB Dev profile)
 - page numbers
+
+- Flatten the galderma entity term store structure
+
+- List: comes from the name 
+
 # 7/18
 - SharePoint tries to extract the title from the document name - 
 

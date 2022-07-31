@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "366b7a29be091e58",
+        "id": "6480bbdb4c013ac8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#script",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "366b7a29be091e58",
+  "active": "6480bbdb4c013ac8",
   "lastOpenFiles": [
-    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🌌 General part/🔑 Key Vault.md",
-    "🏫 Knowledge Center/SharePoint 🟢/SPO 🈸.md",
-    "🏫 Knowledge Center/Power Automate 🧵.md",
+    "Projects 👷‍♂️/👨‍🏫 Ask a professional/Lists.md",
     "Projects 👷‍♂️/👨‍🏫 Ask a professional/🤝 Meetings.md",
     "Projects 👷‍♂️/👨‍🏫 Ask a professional/❓ Questions.md",
+    "🏫 Knowledge Center/SharePoint 🟢/SPO 🈸.md",
+    "🏫 Knowledge Center/SharePoint 🟢/PNP/PowerShell.md",
+    "🏫 Knowledge Center/SharePoint 🟢/🖼 Site templates.md",
+    "Projects 👷‍♂️/💳SEBA/👛 SEBA.md",
+    "🏫 Knowledge Center/👩‍💻 Software Development/General.md",
     "Projects 👷‍♂️/🍨 Galderma.md",
-    "🏫 Knowledge Center/Internet 🌐/Security 👮‍♀️/⚓ HSM.md",
-    "🏫 Knowledge Center/Internet 🌐/Security 👮‍♀️/📃 Protocols.md",
-    "🏫 Knowledge Center/🏫Knowledge Center.md",
-    "Certificates/🔷AZ-204/🔐☁ Implement secure cloud solution/🔲 Modular part/📉 MS Graph.md"
+    "Projects 👷‍♂️/💳SEBA/Data export automation proposal.md"
   ]
 }

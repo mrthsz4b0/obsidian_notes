@@ -1,3 +1,59 @@
+# Managed metadata
+- Managed metadata: A **globally** available metadata service
+
+## Pros of Managed Metadata columns
+
+-   Managed Metadata is globally available - across all sites in the farm or tenant
+-   Managed Metadata supports language translations
+-   Changes to the term set values will be updated across all sites
+-   Administrators can control who can contribute to each term set
+-   Combined with search, you can create a global search center with refiners across all sites using the term set
+
+## [](https://docs.microsoft.com/en-us/microsoft-365/community/information-architecture-managed-metadata-vs-lookup-column#cons-of-managed-metadata-columns)Cons of Managed Metadata columns
+
+-   Cannot be managed freely by site owners, changes have to be added to a change policy to avoid failures
+-   Managed metadata is "singular" meaning you cannot connect other metadata to it, like we can with lookup columns. For example, the **Active from Date** and **Active to Date** in the first example above.
+
+## Dev experience
+
+-   There is no single way of doing things in SharePoint. It all depends on the use cases.
+-   I normally use Managed Metadata when dealing with cross site publishing or global search-related metadata. Because the metadata values are normally managed by a few people and used widely across all sites in SharePoint, we get more consistency and converge on a common understanding. This is especially true when building Document Management solutions or Intranet News publishing.
+-   I use Lookup columns, when I'm building solutions that are locally related to a site, and the lookup data is from multiple lists already in the site. For example, when building custom apps with Power Apps and I'm using SharePoint lists as data sources.
+---
+- appinv.aspx - to register app in sharepoint
+- AppPrincipals.aspx
+
+- If you have read access to the site you have read access to every list, only the wright access on the list can be more restrictive after you can read whole site
+
+IRU: - Fab has the script to parse the reference excel  + create app catalog on all QA sites
+
+# Mobile view
+
+> [!WARNING] Mobile view
+> Mobile options in modern site are not used
+
+
+ Only the view is limitation 5000 if this comes for a **filtering**
+- Question: how do they spread by content type
+	- Narrow down by
+		- Metadata
+		- Separate vew
+
+- term-store limit: million all together?
+- Limit for term-set: 1000?
+
+- Drop down - yes or no
+	- You can convert tru/false to choice
+
+- Can import term-sets
+	- Can't export through UI
+- Internal ID --> listitemid🔢
+- A specific doc lib
+
+
+# Modify SPO toolbar & button
+- [How to Modify SharePoint List Toolbar Buttons with List Formatting - YouTube](https://www.youtube.com/watch?v=sZYZnJGQgcI&ab_channel=AprilDunnam)
+
 # Power Apps form
 - When you create a SPO form PowerApp you replace all the forms (it will pop up every time you click on properties in SPO instead of property pane) - however if we use the title instead of the name we can get rid of the 3 dots, but we have to double-click on the entry to open. There is also not displays the extension
 
